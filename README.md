@@ -9,14 +9,14 @@ This is version 2 of :
 [![TNASec](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=TNASec&show_owner=false&layout=compact&bg_color=0a0a0a&text_color=00FFFF&title_color=00FFFF)](https://github.com/TNAlotaibi/TNASec)
 </details>
 
-## What's the new ?
+## What's new ?
 - Added key for ***__Encrypt__*** and ***__Decrypt__***. --> ___The key will encrypt using another algorithm___ !
 - Created new design
 - Fixed problems in **ciphertext**
 
 ## Advantage 
 - Strong encryption
-- No one can decrypt it ***__except__*** you or ***__anybody__*** have the ***__program__*** and the ***__secret key__***
+- No one can decrypt it ***__except__*** you or ***__anybody__*** who has the ***__program__*** and the ***__secret key__***
 - Fast ***__Encrypt__*** and ***__Decrypt__***
 - The key is encrypt using another algorithm
 
